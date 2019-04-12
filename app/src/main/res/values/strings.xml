@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo Tabbing</string>
+    <string name="tab_one">These are the sample one,\nit is default text.</string>
+    <string name="tab_two">These are the sample two text.</string>
+    <string name="tab_three">These are the sample three text.</string>
+    <string name="head_text_tab_one">I</string>
+    <string name="head_text_tab_two">II</string>
+    <string name="head_text_tab_three">III</string>
+    <string name="dynamic_tab_one">IV</string>
+    <string name="dynamic_tab_two">V</string>
+    <string name="dynamic_tab_three">VI</string>
+    <string name="dynamic_tab_four">VII</string>
+</resources>
